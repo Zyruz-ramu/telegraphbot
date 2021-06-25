@@ -1,6 +1,6 @@
 import os 
 import logging 
-from pyrrogram import Client. filters 
+from pyrogram import Client. filters 
 from pyrogram.types import InlineKeyboardMarkup. inlineKeyboardButton
 from creds import Credentials
 from telegraph import upload_file
