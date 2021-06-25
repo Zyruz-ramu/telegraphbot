@@ -5,7 +5,7 @@ from pyrogram.types import InlineKeyboardMarkup, InlineKeyboardButton
 from creds import Credentials
 from telegraph import upload_file
 
-logging.basicConfig(level=logging.WARNINg)
+logging.basicConfig(level=logging.WARNING)
 
 
 tgraph = Client(
