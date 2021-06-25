@@ -1,1 +1,15 @@
+#Personal files
 
+*.session
+
+*.ini
+
+*.session-journal
+
+*.env
+
+# compile time caches and files
+
+__pycache__/
+
+downloads/
